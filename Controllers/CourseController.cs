@@ -13,6 +13,8 @@ public class CourseController : Controller{
         var kurs = new Course();
         kurs.Id = 1;
         kurs.Title = "Aspnet core kursu";
+        kurs.Description = "new"; 
+        kurs.Image = "asp.jpeg";
         return View(kurs);
         
     }
@@ -20,11 +22,19 @@ public class CourseController : Controller{
     //  course/List
 
 
-    
     public IActionResult List()
+{
+    var kurslar = new List<Course>
     {
-        return View("CourseList");
-    }
+        new Course { Id = 1, Title = "asp kurs" , Description ="nice kurs" ,Image = "asp.jpeg"},
+        new Course { Id = 2, Title = "django kurs" , Description ="nice kurs", Image = "dj.png"},
+        new Course { Id = 3, Title = "js kurs" , Description ="nice kurs" , Image = "js.jpeg"},
+
+
+    };
+
+    return View("CourseList", kurslar);
+}
     
 }
 

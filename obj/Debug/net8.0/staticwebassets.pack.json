@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/wwwroot/images/asp.jpeg",
+      "PackagePath": "staticwebassets/images/asp.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/wwwroot/images/dj.png",
+      "PackagePath": "staticwebassets/images/dj.png"
+    },
+    {
+      "Id": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/wwwroot/images/js.jpeg",
+      "PackagePath": "staticwebassets/images/js.jpeg"
+    },
+    {
       "Id": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

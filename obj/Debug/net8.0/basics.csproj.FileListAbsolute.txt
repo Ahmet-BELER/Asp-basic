@@ -28,3 +28,4 @@
 /Users/ahmetbeler/Desktop/ASP .NET CORE/basics/obj/Debug/net8.0/basics.pdb
 /Users/ahmetbeler/Desktop/ASP .NET CORE/basics/obj/Debug/net8.0/basics.genruntimeconfig.cache
 /Users/ahmetbeler/Desktop/ASP .NET CORE/basics/obj/Debug/net8.0/ref/basics.dll
+/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/obj/Debug/net8.0/basics.sourcelink.json
