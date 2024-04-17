@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using basics.Models;
+<<<<<<< HEAD
 namespace basics.Controllers;
 
 
@@ -9,6 +10,17 @@ public class CourseController : Controller{
 
     // course/index
     public IActionResult Index()
+=======
+
+
+
+
+namespace basics.Controllers;
+
+public class CourseController : Controller{
+
+  public IActionResult Index()
+>>>>>>> master
     {
         var kurs = new Course();
         kurs.Id = 1;
@@ -19,6 +31,7 @@ public class CourseController : Controller{
         
     }
 
+<<<<<<< HEAD
     //  course/List
 
 
@@ -38,3 +51,24 @@ public class CourseController : Controller{
     
 }
 
+=======
+  public IActionResult Details(int id)
+    {
+    
+        var kurs = Repository.GetById(id);
+        return View(kurs);
+    } 
+
+
+    public IActionResult List()
+    {
+        return View("CourseList", Repository.Courses);
+    }
+  
+  
+}
+
+
+
+
+>>>>>>> master

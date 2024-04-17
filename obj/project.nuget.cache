@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+NJNKbIGwdA7R74ThBARyrzyoJtb/u7SpAapygSDZT60Cm7EBiYzeQVdRQNU4cZ12ZX2dLpaFaR3plozOmVdxQ==",
   "success": true,
   "projectFilePath": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/basics.csproj",
+=======
+  "dgSpecHash": "3CH9XAmiohb3h3lRyO9rGNAxYi99XL06XUAlQbO04mCPvMX7SHQMUrtSch4JOixJ2vhW33L4jQLwLPeewWNFYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmet\\Desktop\\asp\\courseapp\\Courseapp\\Courseapp.csproj",
+>>>>>>> master
   "expectedPackageFiles": [],
   "logs": []
 }

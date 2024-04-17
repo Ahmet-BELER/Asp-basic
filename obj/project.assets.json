@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "/Users/ahmetbeler/.nuget/packages/": {}
+=======
+    "C:\\Users\\Ahmet\\.nuget\\packages\\": {}
+>>>>>>> master
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/basics.csproj",
       "projectName": "basics",
       "projectPath": "/Users/ahmetbeler/Desktop/ASP .NET CORE/basics/basics.csproj",
@@ -21,11 +26,26 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmetbeler/.nuget/NuGet/NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\asp\\courseapp\\Courseapp\\Courseapp.csproj",
+      "projectName": "Courseapp",
+      "projectPath": "C:\\Users\\Ahmet\\Desktop\\asp\\courseapp\\Courseapp\\Courseapp.csproj",
+      "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ahmet\\Desktop\\asp\\courseapp\\Courseapp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> master
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+<<<<<<< HEAD
+=======
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> master
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +82,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+>>>>>>> master
       }
     }
   }
